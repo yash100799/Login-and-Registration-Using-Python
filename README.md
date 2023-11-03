@@ -1,1 +1,1 @@
-# Login-and-Registration-Using-Python-Tkinter-and-MySQL
+# Login-and-Registration-Using-Python
